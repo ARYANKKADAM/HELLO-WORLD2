@@ -1,0 +1,5 @@
+#INCLUDE<STDIO.H>
+VOID MAIN()
+{
+  PRINT("HELLO WORLD...!!!");
+}
